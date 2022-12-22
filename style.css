@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    text-align: center;
+    min-height: 100vh;
+}
+header {
+    background-color: lightblue;
+    border-radius: 15px;
+    color: white;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+.row {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row p {
+    margin-top: 0;
+}
+
+.everything {
+    display: block;
+}

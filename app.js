@@ -1,0 +1,1 @@
+document.body.addEventListener('click', function() {window.open("https://youtu.be/j5a0jTc9S10");}, true); 
